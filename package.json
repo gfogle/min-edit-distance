@@ -1,0 +1,36 @@
+{
+  "name": "min-edit-distance",
+  "version": "1.0.0",
+  "description": "minimum edit distance functions",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "should": "^7.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gfogle/min-edit-distance.git"
+  },
+  "keywords": [
+    "levenshtein",
+    "edit",
+    "distance",
+    "minimum",
+    "backtrace",
+    "backtracing"
+  ],
+  "author": "George Fogle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gfogle/min-edit-distance/issues"
+  },
+  "homepage": "https://github.com/gfogle/min-edit-distance"
+}
